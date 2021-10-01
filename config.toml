@@ -1,0 +1,15 @@
+baseURL = 'https://nthelse.github.io/'
+languageCode = 'en-us'
+title = 'Nothing Else Lab'
+theme = 'yinyang'
+[params]
+headTitle = 'Nothing Else Lab'
+description = "无他，但手熟尔。——宋·欧阳修《卖油翁》"
+favicon = "/nelab.png"
+mainSections = ['posts']
+[[params.socials]]
+name = "About Us"
+link = "/about"
+[[params.socials]]
+name = "Github"
+link = "https://github.com/NthElse"
